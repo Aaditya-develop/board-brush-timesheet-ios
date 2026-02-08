@@ -1,0 +1,15 @@
+# Xcode
+DerivedData/
+build/
+*.xcuserdata
+*.xcworkspace
+*.xcodeproj/project.xcworkspace
+
+# Swift Package Manager
+.build/
+
+# Environment / Secrets
+.env
+.env.*
+*.trace
+.DS_Store
